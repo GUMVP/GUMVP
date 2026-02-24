@@ -2,7 +2,7 @@
 
 😊 Um pouco sobre mim…
 
-👨‍💻 Sou estudante de **Engenharia da Computação** na **:contentReference[oaicite:0]{index=0}**, Campus 1.
+👨‍💻 Sou estudante de Engenharia Informática na PUC-Campinas
 
 🚀 Sou uma pessoa proativa e engajada, sempre buscando transformar ideias em soluções tecnológicas que otimizem processos e gerem impacto positivo.
 
