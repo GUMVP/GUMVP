@@ -8,12 +8,6 @@
 
 🎓 Estou constantemente em busca de novos conhecimentos, aprimorando minhas habilidades para acompanhar a evolução da tecnologia e da inovação.
 
-<div align="center">
-  <a href="https://github.com/[SEU_USUARIO_GITHUB]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
 
 ---
 
